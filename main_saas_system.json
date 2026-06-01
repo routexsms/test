@@ -1,5 +1,18 @@
 {
-    "main_users": [],
+    "main_users": [
+        {
+            "id": 1,
+            "user_id": 7646847122,
+            "role": "user",
+            "added_by": null
+        },
+        {
+            "id": 2,
+            "user_id": 7646847122,
+            "role": "user",
+            "added_by": null
+        }
+    ],
     "sms_panels": [],
     "packages": [],
     "bot_subscriptions": [],
