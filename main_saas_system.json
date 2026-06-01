@@ -34,7 +34,7 @@
             "group_masking_on": null,
             "extra_bot_token": null,
             "group_chat_id": null,
-            "assign_limit_amount": null,
+            "assign_limit_amount": 4,
             "assign_cooldown_secs": null,
             "maintenance_on": 0,
             "maintenance_msg": null,
