@@ -13,6 +13,20 @@
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
+        },
+        {
+            "id": 2,
+            "bot_token": "8499529767:AAGTU9JdDzGeaJQrRNFMRdZ8my1KBAkd0u0",
+            "user_id": 7646847122,
+            "username": "Teamredadmin",
+            "joined_at": "2026-06-01 21:45:13.272694",
+            "balance": 0.0,
+            "referred_by": null,
+            "banned": null,
+            "last_number_time": null,
+            "wa_linked": null,
+            "otp_taken_count": null,
+            "lang": "en"
         }
     ],
     "numbers": [
